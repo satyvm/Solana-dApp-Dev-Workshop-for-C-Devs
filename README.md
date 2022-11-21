@@ -8,10 +8,11 @@ Sources: <br />
 [2] https://soldev.app/ <br />
 [3] https://solanacookbook.com/ <br />
 [4] https://www.anchor-lang.com/ <br />
-[5] https://docs.solana.com/introduction <br />
-[6] https://solana.stackexchange.com/ <br />
-[7] https://spl.solana.com/ <br />
-[8] https://github.com/solana-labs/solana-program-library <br />
+[5] https://www.apr.dev/ <br />
+[6] https://docs.solana.com/introduction <br />
+[7] https://solana.stackexchange.com/ <br />
+[8] https://spl.solana.com/ <br />
+[9] https://github.com/solana-labs/solana-program-library <br />
 <br />
 <br />
 Curriculum Draft: <br />
