@@ -1,4 +1,4 @@
-# Solana Natives
+# Solana Dev Workshop
 <br />
 Repo for the open source solana workshop <br />
 <br />
