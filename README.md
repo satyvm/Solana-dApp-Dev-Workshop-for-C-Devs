@@ -15,7 +15,6 @@ Sources: <br />
 <br />
 <br />
 Curriculum Draft: <br />
-<br />
 1 – Rust <br />
 2 – Solana Programming Model <br />
 3 – Solana Program Library <br />
