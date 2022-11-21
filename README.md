@@ -1,6 +1,7 @@
 # Solana Natives
 <br />
-Repo for the open source solana workshop
+Repo for the open source solana workshop <br />
+<br />
 <br />
 Sources: <br />
 [1] https://doc.rust-lang.org/book/ <br />
