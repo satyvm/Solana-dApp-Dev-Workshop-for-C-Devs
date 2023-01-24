@@ -21,3 +21,7 @@ Curriculum Draft <br />
 3 – Solana Program Library <br />
 4 – Anchor <br />
 5 – Code your own dApp <br />
+<br />
+Random Content <br />
+<br />
+[1] https://www.youtube.com/watch?v=EHxR3wIWmEU -  Building on Solana Crash Course <br />
