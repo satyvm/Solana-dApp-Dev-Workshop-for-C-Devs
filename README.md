@@ -10,12 +10,17 @@ Sources <br />
 [3] https://solanacookbook.com/ <br />
 [4] https://www.anchor-lang.com/ <br />
 [5] https://www.apr.dev/ <br />
-[6] https://docs.solana.com/introduction <br />
+[6] https://docs.solana.com/introduction/ <br />
 [7] https://solana.stackexchange.com/ <br />
 [8] https://spl.solana.com/ <br />
-[9] https://github.com/solana-labs/solana-program-library <br />
+[9] https://github.com/solana-labs/solana-program-library/ <br />
 [10] https://solana.stackexchange.com/ <br />
-[11] https://solana.com/developers <br />
+[11] https://solana.com/developers/ <br />
+[12] https://solana.com/learn/blockchain-basics/ <br />
+[13] https://build.superteam.fun/ <br />
+[14] https://www.rust-lang.org/learn/ <br />
+[15] https://play.rust-lang.org/ <br />
+[16] https://doc.rust-lang.org/beta/ <br />
 <br />
 <br />
 Curriculum Draft <br />
