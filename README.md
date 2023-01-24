@@ -28,4 +28,5 @@ Curriculum Draft <br />
 <br />
 Random Content <br />
 <br />
-[1] https://www.youtube.com/watch?v=EHxR3wIWmEU -  Building on Solana Crash Course <br />
+[1] https://www.youtube.com/watch?v=EHxR3wIWmEU - Building on Solana Crash Course <br />
+[2] https://www.youtube.com/watch?v=7Iitv5tMOMY - Intro to the Solana Programming Model <br />
