@@ -1,4 +1,4 @@
-# Solana Dev Workshop
+# Open Source Solana dApp Development Workshop for C/++ Devs
 <br />
 Repo for the open source solana workshop <br />
 <br />
