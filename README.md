@@ -14,7 +14,8 @@ Sources <br />
 [7] https://solana.stackexchange.com/ <br />
 [8] https://spl.solana.com/ <br />
 [9] https://github.com/solana-labs/solana-program-library <br />
-[10] https://solana.stackexchange.com/  <br />
+[10] https://solana.stackexchange.com/ <br />
+[11] https://solana.com/developers <br />
 <br />
 <br />
 Curriculum Draft <br />
