@@ -4,6 +4,7 @@ Repo for the open source solana workshop <br />
 <br />
 <br />
 Sources <br />
+<br />
 [1] https://doc.rust-lang.org/book/ <br />
 [2] https://soldev.app/ <br />
 [3] https://solanacookbook.com/ <br />
@@ -16,11 +17,13 @@ Sources <br />
 <br />
 <br />
 Curriculum Draft <br />
-1 – Rust <br />
+<br />
+1 – Rust Book <br />
 2 – Solana Programming Model <br />
 3 – Solana Program Library <br />
 4 – Anchor <br />
 5 – Code your own dApp <br />
+<br />
 <br />
 Random Content <br />
 <br />
